@@ -1,4 +1,4 @@
-header{
+ header{
     background-color: rgb(69, 120, 187);
     text-align: center;
     padding-bottom: 50px;
@@ -9,6 +9,7 @@ h1{
     color: white;
     font-size: 70px;
     font-style: italic;
+    text-shadow: 3px 3px 4px rgb(235, 198, 34);
 }
 
 img {
@@ -25,6 +26,8 @@ section{
 }
 .color {
     color:white;
+    font-family: "Lucida Console", "Courier New", monospace;
+    
 }
 footer {
     background-color: rgb(69, 120, 187);
@@ -33,4 +36,8 @@ footer {
 }
 h2 {
     text-shadow: 3px 3px 4px rgb(69, 120, 187);
+}
+img {
+    float: left;
+    margin-right: 50px;
 }
